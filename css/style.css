@@ -2,9 +2,7 @@
 
 
 /* Header CSS */
-#pro{
-    float:left;
-}
+
 
 /* Section CSS */
 
@@ -15,7 +13,11 @@
 
 
 /* Portfolio Item CSS */
-
+#project-pic{
+    height:75px;
+    width:75px;
+    background-color: blue;
+}
 
 
 /* Footer CSS */
