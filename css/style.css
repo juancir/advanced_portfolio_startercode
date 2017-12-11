@@ -1,29 +1,20 @@
-/* Nav Bar CSS */
-
-
-/* Header CSS */
-
-
-/* Section CSS */
-
-
-
-/* About Section CSS */
-
-
-
-/* Portfolio Item CSS */
-#project-pic{
-    height:75px;
-    width:75px;
-    background-color: blue;
+h1{
+  font-family: 'Spectral SC', serif;
 }
-
-
-/* Footer CSS */
-
-
-
-/* Button CSS */
-
-
+h2{
+  font-family: 'Spectral SC', serif;
+}
+a{
+  font-family: 'Vollkorn SC', serif;
+  font-size: 24px;
+  /*color: white;*/
+}
+p{
+  font-family: 'Noto Serif', serif;
+}
+/*nav{*/
+/*    background-color: black;*/
+/*}*/
+body{
+    background-color: grey;
+}
