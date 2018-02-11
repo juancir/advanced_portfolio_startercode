@@ -15,12 +15,24 @@ a {
 p {
   font-family: 'Noto Serif', serif;
 }
-.about{
-  padding: 10px 10px 10px 10px;
+
+.about {
+  padding: -20px 10px 10px 10px;
 }
-.portfolio{
-  padding: 10px 10px 50px 50px;
+
+.portfolio {
+  padding: 50px 10px 50px 50px;
 }
-.contact{
+
+.contact {
   padding: 50px 10px 50px 10px;
+}
+
+img {
+  height: 200px;
+  width: 200px
+}
+
+.col-lg-4 col-sm-6 {
+  padding: 20px 20px 20px 20px;
 }
