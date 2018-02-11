@@ -1,20 +1,26 @@
-h1{
+h1 {
   font-family: 'Spectral SC', serif;
 }
-h2{
+
+h2 {
   font-family: 'Spectral SC', serif;
 }
-a{
+
+a {
   font-family: 'Vollkorn SC', serif;
   font-size: 24px;
   /*color: white;*/
 }
-p{
+
+p {
   font-family: 'Noto Serif', serif;
 }
-/*nav{*/
-/*    background-color: black;*/
-/*}*/
-body{
-    background-color: grey;
+.about{
+  padding: 10px 10px 10px 10px;
+}
+.portfolio{
+  padding: 10px 10px 50px 50px;
+}
+.contact{
+  padding: 50px 10px 50px 10px;
 }
